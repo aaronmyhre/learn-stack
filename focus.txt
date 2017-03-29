@@ -1,0 +1,25 @@
+in-memory
+amp labs
+spark, kafka, hdfs
+
+startup startup exprience
+
+agility, rapid  
+
+data enginering team - itunes
+richard m - strategic, architecture, data constructs, 
+mahish - technical, hands on 
+
+red haring - apachie flink, great tech, but not as good of a comunity
+
+aluxio  - future proofing. 
+
+itues, historically used teradata 
+- breaking apart. 
+
+assessment 
+- supplement with next gen analytics platfrom 
+
+source sytem guy
+ 
+ 
